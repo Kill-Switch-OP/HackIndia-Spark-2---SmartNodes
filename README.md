@@ -10,3 +10,7 @@
 
 5. ![Hackindia Screenshot](https://res.cloudinary.com/dk2ce0xlf/image/upload/v1723007144/HACKINDIA/Screenshot_2024-08-07_at_10.32.51_AM_dmgpb4.png)
 
+6. ![Hackindia Screenshot](https://res.cloudinary.com/dk2ce0xlf/image/upload/v1723008251/HACKINDIA/Screenshot_2024-08-07_at_10.53.40_AM_se2fho.png)
+
+7. ![Hackindia Screenshot](https://res.cloudinary.com/dk2ce0xlf/image/upload/v1723008140/HACKINDIA/Screenshot_2024-08-07_at_10.51.57_AM_rmdjpb.png)
+
