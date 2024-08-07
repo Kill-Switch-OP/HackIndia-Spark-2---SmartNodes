@@ -1,0 +1,30 @@
+{
+    "reports": {
+        "exclude_contracts": [
+            "SafeMath"
+        ]
+    },
+    "dependencies": [
+        "OpenZeppelin/openzeppelin-contracts@4.8.1"
+    ],
+    "compiler": {
+        "solc": {
+            "remappings": [
+                "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.8.1"
+            ]
+        }
+    },
+    "autofetch_sources": true,
+    "dotenv": ".env",
+    "networks": {
+        "development": {
+            "host": "http://127.0.0.1",
+            "port": 8545,
+            "network_id": 1337
+        }
+    },
+    "wallets": {
+        "from_key": "${PRIVATE_KEY}",
+        "from_mnemonic": "${MNEMONIC}"
+    }
+}
